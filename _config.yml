@@ -2,8 +2,8 @@ title:              Manny's Movie Reviews #title, used for webpage title
 email:              menon281004@gmail.com #used for contact form
 description:        the best waste of time on the internet
 author:             Emmanuel Harish Menon
-baseurl:            "" #set this to empty, as this will be hosted on GH Pages
-url:                "https://emmanuelmenon.github.io/moviereviews" #this is where it should be hosted
+baseurl:            "/" #set this to empty, as this will be hosted on GH Pages
+url:                "https://emmanuelmenon.github.io/movie-review-blog" #this is where it should be hosted
 
 # Social Profiles
 twitter_username:   emmanuelhmenon #twitter
