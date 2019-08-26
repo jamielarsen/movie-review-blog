@@ -1,0 +1,1 @@
+This project is essentially me porting over all of my movie reviews from my blog spot to my new website based on the "Clean Blog" theme developed by StartBootStrap. It will be updated whenever there is a either a security issue or a new review I want to add. Most of the images on this site have been hotlinked mainly because I don't really want to go through my GH Pages quota.

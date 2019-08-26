@@ -1,0 +1,42 @@
+---
+layout: page
+title: Posts
+background: '/img/bg-post.jpg'
+---
+<!---
+this is for the "posts" page, it is called index.html because it is the main post page
+-->
+<hr>
+
+{% for post in paginator.posts %} <!--This is jekyll's version of a for loop-->
+
+<article class="post-preview">
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <h3 class="post-title">{{ post.title }}</h3>
+  </a>
+  <h5 class="post-subtitle">{{ post.subtitle }}</h5>
+  <p class="post-meta">Posted on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+  </p>
+</article>
+
+<hr>
+
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+<div class="clearfix">
+
+  {% if paginator.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+    Newer<span class="d-none d-md-inline"> Posts</span></a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  {% endif %}
+
+</div>
+
+{% endif %}

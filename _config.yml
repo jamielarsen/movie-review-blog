@@ -1,0 +1,29 @@
+title:              Manny's Movie Reviews #title, used for webpage title 
+email:              menon281004@gmail.com #used for contact form
+description:        the best waste of time on the internet
+author:             Emmanuel Harish Menon
+baseurl:            "" #set this to empty, as this will be hosted on GH Pages
+url:                "https://emmanuelmenon.github.io/moviereviews" #this is where it should be hosted
+
+# Social Profiles
+twitter_username:   emmanuelhmenon #twitter
+github_username:    emmanuelmenon #github
+#facebook_username:  StartBootstrap
+#linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+# - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
