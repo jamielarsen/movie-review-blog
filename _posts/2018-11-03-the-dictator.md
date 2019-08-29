@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Dictator(2012)"
+title: "The Dictator (2012)"
 subtitle: "Critics PoV: Atrocious; Human PoV: Funny as Hell!"
 tag: Film
 date: 2018-11-03
