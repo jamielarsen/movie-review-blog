@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-<!-- Page Header -->
+<!--page header loading-->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
   {% else %}
@@ -22,16 +21,13 @@ layout: default
       </div>
     </div>
   </header>
+<!--page header loaded-->
 
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-
-        {{ content }}
-
-        <!-- Home Post List -->
+        <!--{{ content }}-->
         <h1>Latest Post:</h1>
-      
         {% for post in site.posts limit : 1 %}
         <div style="border:3px solid black;background-image: linear-gradient(#f8f8f8, white, #f8f8f8)">
         <article style="margin: 10px"class="post-preview">
@@ -53,14 +49,11 @@ layout: default
         </div>
       </a>
         <hr>
-
         {% endfor %}
 
-        <!-- Pager -->
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
       </div>
     </div>
   </div>
