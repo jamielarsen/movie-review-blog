@@ -3,7 +3,7 @@ layout: post
 title: "Holmes and Watson (2018)"
 subtitle: "Dumb, cheap comedy"
 tag: Film
-date: 2018-01-03
+date: 2019-01-03
 background: https://mediad.publicbroadcasting.net/p/wcbe/files/styles/large/public/201812/holmes_5.jpg
 ---
 Holmes and Watson relies on dumb and cheap humour to elicit laughs from the audience. The movie over expands certain jokes to the point of boredom. Indeed, the opening courtroom scene is a very clear example of an overexpanded scene. Will Ferrell’s performance of Holmes is not very interesting, although his delivery is perfectly timed and comedic. Both Will Ferrell and John C. Reilly play off each other really well and this leads to some hilarious moments in the story.

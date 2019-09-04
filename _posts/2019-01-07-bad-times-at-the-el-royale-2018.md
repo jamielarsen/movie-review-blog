@@ -3,7 +3,7 @@ layout: post
 title: "Bad Times At The El Royale (2018)"
 subtitle: "An interesting premise that dies in its execution"
 tag: Film
-date: 2018-01-07
+date: 2019-01-07
 background: https://www.who.com.au/media/29722/el_royal.jpg
 ---
 Bad Times At The El Royale has such an interesting premise but it fails miserably in the execution of the premise. While boasting an impressive cast with the likes of Jon Hamm, Dakota Fanning and even Chris Hemsworth, the movie fails to keep the feeling of suspense and tension going throughout the entire film. However, the cinematography is well executed and the way colour is used to represent different things through the entire movie is intelligent.

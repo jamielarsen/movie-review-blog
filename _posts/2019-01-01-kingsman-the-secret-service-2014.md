@@ -3,7 +3,7 @@ layout: post
 title: "Kingsman: The Secret Service (2014)"
 subtitle: "Fantastic spy thriller, with smarts and amazing cinematography"
 tag: Film
-date: 2018-01-01
+date: 2019-01-01
 background: https://cdn.mos.cms.futurecdn.net/8092ff3fa52c8c21deae4ef77839bf61.jpg
 ---
 Kingsman: The Secret Service takes the best parts of classic spy movies(great villains, well-dressed and witty protagonist) and adds a few twists of its own. The action scenes in this movie are well choreographed and as a result of the aforementioned choreography, the scenes are insanely delightful. The cinematography in Kingsman is simple but effective especially since many of the shots are uncluttered by messy backgrounds.

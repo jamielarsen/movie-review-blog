@@ -3,7 +3,7 @@ layout: post
 title: "The Hitman's Bodyguard (2017)"
 subtitle: "Saved by Reynolds and Jackson!"
 tag: Film
-date: 2018-01-06
+date: 2019-01-06
 background: https://cdn.vox-cdn.com/thumbor/zgdIU1Fl9R2A6z2ZIR_OdtRClew=/160x245:1856x1331/1200x800/filters:focal(840x506:1160x826)/cdn.vox-cdn.com/uploads/chorus_image/image/56254063/hitman4.0.jpg
 ---
 The Hitman’s Bodyguard is like every other mediocre action movie. The plot is generic and bland even though the premise sounded interesting. However, this movie does have one thing going for it. The chemistry between Ryan Reynolds and Samuel L. Jackson is perfect. These two veteran actors, play off each other well, but still, maintain that quality in their individual scenes. The shots in this movie are lit too brightly and it gives the movie an unprofessional feel.
