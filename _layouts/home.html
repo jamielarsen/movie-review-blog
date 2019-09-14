@@ -26,6 +26,27 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+        <!--searchfunc-->
+        <!-- Html Elements for Search -->
+        <h1>Search:</h1>
+        <div id="search-container">
+            <input type="text" id="search-input" placeholder="type stuff here!" style="width: 100%; border: 3px solid black; ">
+            <ul id="results-container"></ul>
+        </div>
+            
+        <script src="{{"/assets/vendor/simple-jekyll-search/simple-jekyll-search.js" | relative_url}}"></script>
+        
+        <!-- Configuration -->
+        <script>
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '../../search.json'
+        })
+        </script>
+
+        <hr>
+
         <!--{{ content }}-->
         <h1>Latest Post:</h1>
         {% for post in site.posts limit : 1 %}
