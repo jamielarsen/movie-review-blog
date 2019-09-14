@@ -3,7 +3,7 @@ email:              menon281004@gmail.com #used for contact form
 description:        the best waste of time on the internet
 author:             Emmanuel Harish Menon
 baseurl:            "/" #set this to empty, as this will be hosted on GH Pages
-url:                "https://emmanuelmenon.github.io/movie-review-blog" #this is where it should be hosted
+url:                "https://emmanuelmenon.github.io/" #this is where it should be hosted
 permalink:        pretty
 
 relative_permalinks: false
